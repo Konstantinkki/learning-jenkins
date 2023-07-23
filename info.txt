@@ -1,0 +1,2 @@
+lesson URL - https://www.linkedin.com/learning/learning-jenkins-14423877/using-a-global-build-tool?autoSkip=true&resume=false&u=2113185
+git repo - https://github.com/LinkedInLearning/learning-jenkins-3003221
